@@ -5,4 +5,6 @@
 - name: testfile
   link: /NewTestFile.html
 - name: Posts
-  link: /blog.html  
+  link: /blog.html
+- name: staff
+  link: /staff.html
